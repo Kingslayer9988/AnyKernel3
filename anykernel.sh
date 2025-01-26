@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=Kingslayer Kernel by Kingslayer9988 @ Github
 do.devicecheck=0
 do.modules=0
 do.systemless=1
